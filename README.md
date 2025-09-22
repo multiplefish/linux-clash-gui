@@ -1,9 +1,7 @@
 # linux-clash-gui 中文的版本
 ## 文件
 ```bash
-通过百度网盘分享的文件：Clash.zip
-链接：https://pan.baidu.com/s/1teXN_5VP1toA-_juNk1QzA 
-提取码：0ssz
+https://drive.google.com/file/d/1d5KYW6lvdzSE2laA4JrP7O9yXfuB8qD7/view?usp=drive_link
 ```
 ## 代理配置
 ![alt text](image.png)
